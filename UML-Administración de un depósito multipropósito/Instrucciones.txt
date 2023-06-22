@@ -1,0 +1,14 @@
+Desarrollar un modelo de dominio para resolver la administración de un depósito multipropósito. 
+
+Generar el diseño de las clases. Sólo del modelo de dominio, SIN comportamiento, solo clases con atributos y sus tipos. 
+
+Se debe contemplar en el diseño las relaciones de Herencia y Asociación dentro del modelo. 
+
+
+El depósito a administrar puede ser cualquiera. Además, quizá se podrían llegar a administrar más de un depósito desde la misma aplicación. 
+
+Un depósito puede contar con “N” cantidad de pasillos, con lados y “N” cantidad de compartimientos por lado. 
+
+Cada compartimiento va a almacenar un tipo de producto. Puede que un compartimiento, o inclusive un pasillo entero pertenezca a un cliente. 
+
+Contemplar en el modelo todas las clases mencionadas y analizar las que no.
